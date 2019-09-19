@@ -11,5 +11,5 @@ If you try to create an account with an existing Id, print "Account already exis
 If you try to perform an operation on a non-existing account, print "Account does not exist".</br>
 If you try to withdraw an amount larger than the balance, print "Insufficient balance".</br>
 The Print command should print "Account ID{id}, balance {balance}". Round the balance to the second digit after the decimal separator.</br>
-![TestClient](./img/TestClient.gif "TestClient")
-![TestClient1](./img/TestClient1.gif"TestClient")
+![Test Client](./img/TestClient.gif "TestClient")
+![Test Client1](./img/TestClient1.gif "TestClient1")
